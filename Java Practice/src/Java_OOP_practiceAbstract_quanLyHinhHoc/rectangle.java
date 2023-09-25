@@ -12,7 +12,6 @@ public class rectangle extends shape {
 		this.width = width;
 		this.height = height;
 	}
-
 	
 	//getter & setter
 	public double getWidth() {
