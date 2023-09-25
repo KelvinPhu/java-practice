@@ -1,10 +1,10 @@
 package Java_OOP_practiceAbstract_quanLyNhanVien;
 
 public class salePerson extends employee {
-
 	public salePerson(String name) {
 		super(name);
 	}
+	
 
 	@Override
 	public double calculateSalary() {
